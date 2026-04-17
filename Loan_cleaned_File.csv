@@ -1,0 +1,615 @@
+Loan_ID,Gender,Married,Dependents,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area,Loan_Status,Income Group,TotalIncome,Risk Category
+LP001002,Male,No,0,Graduate,No,5849,0,146,360,1,Urban,Approved,Medium,5849,Low Risk
+LP001003,Male,Yes,1,Graduate,No,4583,1508,128,360,1,Rural,Rejected,Medium,6091,Low Risk
+LP001005,Male,Yes,0,Graduate,Yes,3000,0,66,360,1,Urban,Approved,Medium,3000,Low Risk
+LP001006,Male,Yes,0,Not Graduate,No,2583,2358,120,360,1,Urban,Approved,Low,4941,Low Risk
+LP001008,Male,No,0,Graduate,No,6000,0,141,360,1,Urban,Approved,Medium,6000,Low Risk
+LP001011,Male,Yes,2,Graduate,Yes,5417,4196,267,360,1,Urban,Approved,Medium,9613,Low Risk
+LP001013,Male,Yes,0,Not Graduate,o,2333,1516,95,360,1,Urban,Approved,Low,3849,Low Risk
+LP001014,Male,Yes,3,Graduate,No,3036,2504,158,360,0,Semiurban,Rejected,Medium,5540,High Risk
+LP001018,Male,Yes,2,Graduate,No,4006,1526,168,360,1,Urban,Approved,Medium,5532,Low Risk
+LP001020,Male,Yes,1,Graduate,No,12841,10968,349,360,1,Semiurban,Rejected,High,23809,Low Risk
+LP001024,Male,Yes,2,Graduate,No,3200,700,70,360,1,Urban,Approved,Medium,3900,Low Risk
+LP001027,Male,Yes,2,Graduate,No,2500,1840,109,360,1,Urban,Approved,Low,4340,Low Risk
+LP001028,Male,Yes,2,Graduate,No,3073,8106,200,360,1,Urban,Approved,Medium,11179,Low Risk
+LP001029,Male,No,0,Graduate,No,1853,2840,114,360,1,Rural,Rejected,Low,4693,Low Risk
+LP001030,Male,Yes,2,Graduate,No,1299,1086,17,120,1,Urban,Approved,Low,2385,Low Risk
+LP001032,Male,No,0,Graduate,No,4950,0,125,360,1,Urban,Approved,Medium,4950,Low Risk
+LP001034,Male,No,1,Not Graduate,No,3596,0,100,240,1,Urban,Approved,Medium,3596,Low Risk
+LP001036,Female,No,0,Graduate,No,3510,0,76,360,0,Urban,Rejected,Medium,3510,High Risk
+LP001038,Male,Yes,0,Not Graduate,No,4887,0,133,360,1,Rural,Rejected,Medium,4887,Low Risk
+LP001041,Male,Yes,0,Graduate,No,2600,3500,115,360,1,Urban,Approved,Low,6100,Low Risk
+LP001043,Male,Yes,0,Not Graduate,No,7660,0,104,360,0,Urban,Rejected,High,7660,High Risk
+LP001046,Male,Yes,1,Graduate,No,5955,5625,315,360,1,Urban,Approved,Medium,11580,Low Risk
+LP001047,Male,Yes,0,Not Graduate,No,2600,1911,116,360,0,Semiurban,Rejected,Low,4511,High Risk
+LP001050,Male,Yes,2,Not Graduate,No,3365,1917,112,360,0,Rural,Rejected,Medium,5282,High Risk
+LP001052,Male,Yes,1,Graduate,No,3717,2925,151,360,1,Semiurban,Rejected,Medium,6642,Low Risk
+LP001066,Male,Yes,0,Graduate,Yes,9560,0,191,360,1,Semiurban,Approved,High,9560,Low Risk
+LP001068,Male,Yes,0,Graduate,No,2799,2253,122,360,1,Semiurban,Approved,Low,5052,Low Risk
+LP001073,Male,Yes,2,Not Graduate,No,4226,1040,110,360,1,Urban,Approved,Medium,5266,Low Risk
+LP001086,Male,No,0,Not Graduate,No,1442,0,35,360,1,Urban,Rejected,Low,1442,Low Risk
+LP001087,Female,No,2,Graduate,No,3750,2083,120,360,1,Semiurban,Approved,Medium,5833,Low Risk
+LP001091,Male,Yes,1,Graduate,No,4166,3369,201,360,1,Urban,Rejected,Medium,7535,Low Risk
+LP001095,Male,No,0,Graduate,No,3167,0,74,360,1,Urban,Rejected,Medium,3167,Low Risk
+LP001097,Male,No,1,Graduate,Yes,4692,0,106,360,1,Rural,Rejected,Medium,4692,Low Risk
+LP001098,Male,Yes,0,Graduate,No,3500,1667,114,360,1,Semiurban,Approved,Medium,5167,Low Risk
+LP001100,Male,No,3,Graduate,No,12500,3000,320,360,1,Rural,Rejected,High,15500,Low Risk
+LP001106,Male,Yes,0,Graduate,No,2275,2067,146,360,1,Urban,Approved,Low,4342,Low Risk
+LP001109,Male,Yes,0,Graduate,No,1828,1330,100,360,0,Urban,Rejected,Low,3158,High Risk
+LP001112,Female,Yes,0,Graduate,No,3667,1459,144,360,1,Semiurban,Approved,Medium,5126,Low Risk
+LP001114,Male,No,0,Graduate,No,4166,7210,184,360,1,Urban,Approved,Medium,11376,Low Risk
+LP001116,Male,No,0,Not Graduate,No,3748,1668,110,360,1,Semiurban,Approved,Medium,5416,Low Risk
+LP001119,Male,No,0,Graduate,No,3600,0,80,360,1,Urban,Rejected,Medium,3600,Low Risk
+LP001120,Male,No,0,Graduate,No,1800,1213,47,360,1,Urban,Approved,Low,3013,Low Risk
+LP001123,Male,Yes,0,Graduate,No,2400,0,75,360,1,Urban,Approved,Low,2400,Low Risk
+LP001131,Male,Yes,0,Graduate,No,3941,2336,134,360,1,Semiurban,Approved,Medium,6277,Low Risk
+LP001136,Male,Yes,0,Not Graduate,Yes,4695,0,96,360,1,Urban,Approved,Medium,4695,Low Risk
+LP001137,Female,No,0,Graduate,No,3410,0,88,360,1,Urban,Approved,Medium,3410,Low Risk
+LP001138,Male,Yes,1,Graduate,No,5649,0,44,360,1,Urban,Approved,Medium,5649,Low Risk
+LP001144,Male,Yes,0,Graduate,No,5821,0,144,360,1,Urban,Approved,Medium,5821,Low Risk
+LP001146,Female,Yes,0,Graduate,No,2645,3440,120,360,0,Urban,Rejected,Low,6085,High Risk
+LP001151,Female,No,0,Graduate,No,4000,2275,144,360,1,Semiurban,Approved,Medium,6275,Low Risk
+LP001155,Female,Yes,0,Not Graduate,No,1928,1644,100,360,1,Semiurban,Approved,Low,3572,Low Risk
+LP001157,Female,No,0,Graduate,No,3086,0,120,360,1,Semiurban,Approved,Medium,3086,Low Risk
+LP001164,Female,No,0,Graduate,No,4230,0,112,360,1,Semiurban,Rejected,Medium,4230,Low Risk
+LP001179,Male,Yes,2,Graduate,No,4616,0,134,360,1,Urban,Rejected,Medium,4616,Low Risk
+LP001186,Female,Yes,1,Graduate,Yes,11500,0,286,360,0,Urban,Rejected,High,11500,High Risk
+LP001194,Male,Yes,2,Graduate,No,2708,1167,97,360,1,Semiurban,Approved,Low,3875,Low Risk
+LP001195,Male,Yes,0,Graduate,No,2132,1591,96,360,1,Semiurban,Approved,Low,3723,Low Risk
+LP001197,Male,Yes,0,Graduate,No,3366,2200,135,360,1,Rural,Rejected,Medium,5566,Low Risk
+LP001198,Male,Yes,1,Graduate,No,8080,2250,180,360,1,Urban,Approved,High,10330,Low Risk
+LP001199,Male,Yes,2,Not Graduate,No,3357,2859,144,360,1,Urban,Approved,Medium,6216,Low Risk
+LP001205,Male,Yes,0,Graduate,No,2500,3796,120,360,1,Urban,Approved,Low,6296,Low Risk
+LP001206,Male,Yes,3,Graduate,No,3029,0,99,360,1,Urban,Approved,Medium,3029,Low Risk
+LP001207,Male,Yes,0,Not Graduate,Yes,2609,3449,165,180,0,Rural,Rejected,Low,6058,High Risk
+LP001213,Male,Yes,1,Graduate,No,4945,0,146,360,0,Rural,Rejected,Medium,4945,High Risk
+LP001222,Female,No,0,Graduate,No,4166,0,116,360,0,Semiurban,Rejected,Medium,4166,High Risk
+LP001225,Male,Yes,0,Graduate,No,5726,4595,258,360,1,Semiurban,Rejected,Medium,10321,Low Risk
+LP001228,Male,No,0,Not Graduate,No,3200,2254,126,180,0,Urban,Rejected,Medium,5454,High Risk
+LP001233,Male,Yes,1,Graduate,No,10750,0,312,360,1,Urban,Approved,High,10750,Low Risk
+LP001238,Male,Yes,3,Not Graduate,Yes,7100,0,125,60,1,Urban,Approved,High,7100,Low Risk
+LP001241,Female,No,0,Graduate,No,4300,0,136,360,0,Semiurban,Rejected,Medium,4300,High Risk
+LP001243,Male,Yes,0,Graduate,No,3208,3066,172,360,1,Urban,Approved,Medium,6274,Low Risk
+LP001245,Male,Yes,2,Not Graduate,Yes,1875,1875,97,360,1,Semiurban,Approved,Low,3750,Low Risk
+LP001248,Male,No,0,Graduate,No,3500,0,81,300,1,Semiurban,Approved,Medium,3500,Low Risk
+LP001250,Male,Yes,3,Not Graduate,No,4755,0,95,360,0,Semiurban,Rejected,Medium,4755,High Risk
+LP001253,Male,Yes,3,Graduate,Yes,5266,1774,187,360,1,Semiurban,Approved,Medium,7040,Low Risk
+LP001255,Male,No,0,Graduate,No,3750,0,113,480,1,Urban,Rejected,Medium,3750,Low Risk
+LP001256,Male,No,0,Graduate,No,3750,4750,176,360,1,Urban,Rejected,Medium,8500,Low Risk
+LP001259,Male,Yes,1,Graduate,Yes,1000,3022,110,360,1,Urban,Rejected,Low,4022,Low Risk
+LP001263,Male,Yes,3,Graduate,No,3167,4000,180,300,0,Semiurban,Rejected,Medium,7167,High Risk
+LP001264,Male,Yes,3,Not Graduate,Yes,3333,2166,130,360,1,Semiurban,Approved,Medium,5499,Low Risk
+LP001265,Female,No,0,Graduate,No,3846,0,111,360,1,Semiurban,Approved,Medium,3846,Low Risk
+LP001266,Male,Yes,1,Graduate,Yes,2395,0,146,360,1,Semiurban,Approved,Low,2395,Low Risk
+LP001267,Female,Yes,2,Graduate,No,1378,1881,167,360,1,Urban,Rejected,Low,3259,Low Risk
+LP001273,Male,Yes,0,Graduate,No,6000,2250,265,360,1,Semiurban,Rejected,Medium,8250,Low Risk
+LP001275,Male,Yes,1,Graduate,No,3988,0,50,240,1,Urban,Approved,Medium,3988,Low Risk
+LP001279,Male,No,0,Graduate,No,2366,2531,136,360,1,Semiurban,Approved,Low,4897,Low Risk
+LP001280,Male,Yes,2,Not Graduate,No,3333,2000,99,360,1,Semiurban,Approved,Medium,5333,Low Risk
+LP001282,Male,Yes,0,Graduate,No,2500,2118,104,360,1,Semiurban,Approved,Low,4618,Low Risk
+LP001289,Male,No,0,Graduate,No,8566,0,210,360,1,Urban,Approved,High,8566,Low Risk
+LP001310,Male,Yes,0,Graduate,No,5695,4167,175,360,1,Semiurban,Approved,Medium,9862,Low Risk
+LP001316,Male,Yes,0,Graduate,No,2958,2900,131,360,1,Semiurban,Approved,Low,5858,Low Risk
+LP001318,Male,Yes,2,Graduate,No,6250,5654,188,180,1,Semiurban,Approved,Medium,11904,Low Risk
+LP001319,Male,Yes,2,Not Graduate,No,3273,1820,81,360,1,Urban,Approved,Medium,5093,Low Risk
+LP001322,Male,No,0,Graduate,No,4133,0,122,360,1,Semiurban,Approved,Medium,4133,Low Risk
+LP001325,Male,No,0,Not Graduate,No,3620,0,25,120,1,Semiurban,Approved,Medium,3620,Low Risk
+LP001326,Male,No,0,Graduate,No,6782,0,146,360,1,Urban,Rejected,Medium,6782,Low Risk
+LP001327,Female,Yes,0,Graduate,No,2484,2302,137,360,1,Semiurban,Approved,Low,4786,Low Risk
+LP001333,Male,Yes,0,Graduate,No,1977,997,50,360,1,Semiurban,Approved,Low,2974,Low Risk
+LP001334,Male,Yes,0,Not Graduate,No,4188,0,115,180,1,Semiurban,Approved,Medium,4188,Low Risk
+LP001343,Male,Yes,0,Graduate,No,1759,3541,131,360,1,Semiurban,Approved,Low,5300,Low Risk
+LP001345,Male,Yes,2,Not Graduate,No,4288,3263,133,180,1,Urban,Approved,Medium,7551,Low Risk
+LP001349,Male,No,0,Graduate,No,4843,3806,151,360,1,Semiurban,Approved,Medium,8649,Low Risk
+LP001350,Male,Yes,0,Graduate,No,13650,0,146,360,1,Urban,Approved,High,13650,Low Risk
+LP001356,Male,Yes,0,Graduate,No,4652,3583,146,360,1,Semiurban,Approved,Medium,8235,Low Risk
+LP001357,Male,Yes,0,Graduate,No,3816,754,160,360,1,Urban,Approved,Medium,4570,Low Risk
+LP001367,Male,Yes,1,Graduate,No,3052,1030,100,360,1,Urban,Approved,Medium,4082,Low Risk
+LP001369,Male,Yes,2,Graduate,No,11417,1126,225,360,1,Urban,Approved,High,12543,Low Risk
+LP001370,Male,No,0,Not Graduate,No,7333,0,120,360,1,Rural,Rejected,High,7333,Low Risk
+LP001379,Male,Yes,2,Graduate,No,3800,3600,216,360,0,Urban,Rejected,Medium,7400,High Risk
+LP001384,Male,Yes,3,Not Graduate,No,2071,754,94,480,1,Semiurban,Approved,Low,2825,Low Risk
+LP001385,Male,No,0,Graduate,No,5316,0,136,360,1,Urban,Approved,Medium,5316,Low Risk
+LP001387,Female,Yes,0,Graduate,No,2929,2333,139,360,1,Semiurban,Approved,Low,5262,Low Risk
+LP001391,Male,Yes,0,Not Graduate,No,3572,4114,152,360,0,Rural,Rejected,Medium,7686,High Risk
+LP001392,Female,No,1,Graduate,Yes,7451,0,146,360,1,Semiurban,Approved,High,7451,Low Risk
+LP001398,Male,No,0,Graduate,No,5050,0,118,360,1,Semiurban,Approved,Medium,5050,Low Risk
+LP001401,Male,Yes,1,Graduate,No,14583,0,185,180,1,Rural,Approved,High,14583,Low Risk
+LP001404,Female,Yes,0,Graduate,No,3167,2283,154,360,1,Semiurban,Approved,Medium,5450,Low Risk
+LP001405,Male,Yes,1,Graduate,No,2214,1398,85,360,1,Urban,Approved,Low,3612,Low Risk
+LP001421,Male,Yes,0,Graduate,No,5568,2142,175,360,1,Rural,Rejected,Medium,7710,Low Risk
+LP001422,Female,No,0,Graduate,No,10408,0,259,360,1,Urban,Approved,High,10408,Low Risk
+LP001426,Male,Yes,0,Graduate,No,5667,2667,180,360,1,Rural,Approved,Medium,8334,Low Risk
+LP001430,Female,No,0,Graduate,No,4166,0,44,360,1,Semiurban,Approved,Medium,4166,Low Risk
+LP001431,Female,No,0,Graduate,No,2137,8980,137,360,0,Semiurban,Approved,Low,11117,High Risk
+LP001432,Male,Yes,2,Graduate,No,2957,0,81,360,1,Semiurban,Approved,Low,2957,Low Risk
+LP001439,Male,Yes,0,Not Graduate,No,4300,2014,194,360,1,Rural,Approved,Medium,6314,Low Risk
+LP001443,Female,No,0,Graduate,No,3692,0,93,360,1,Rural,Approved,Medium,3692,Low Risk
+LP001448,Male,Yes,3,Graduate,No,23803,0,370,360,1,Rural,Approved,High,23803,Low Risk
+LP001449,Male,No,0,Graduate,No,3865,1640,146,360,1,Rural,Approved,Medium,5505,Low Risk
+LP001451,Male,Yes,1,Graduate,Yes,10513,3850,160,180,0,Urban,Rejected,High,14363,High Risk
+LP001465,Male,Yes,0,Graduate,No,6080,2569,182,360,1,Rural,Rejected,Medium,8649,Low Risk
+LP001469,Male,No,0,Graduate,Yes,20166,0,650,480,1,Urban,Approved,High,20166,Low Risk
+LP001473,Male,No,0,Graduate,No,2014,1929,74,360,1,Urban,Approved,Low,3943,Low Risk
+LP001478,Male,No,0,Graduate,No,2718,0,70,360,1,Semiurban,Approved,Low,2718,Low Risk
+LP001482,Male,Yes,0,Graduate,Yes,3459,0,25,120,1,Semiurban,Approved,Medium,3459,Low Risk
+LP001487,Male,No,0,Graduate,No,4895,0,102,360,1,Semiurban,Approved,Medium,4895,Low Risk
+LP001488,Male,Yes,3,Graduate,No,4000,7750,290,360,1,Semiurban,Rejected,Medium,11750,Low Risk
+LP001489,Female,Yes,0,Graduate,No,4583,0,84,360,1,Rural,Rejected,Medium,4583,Low Risk
+LP001491,Male,Yes,2,Graduate,Yes,3316,3500,88,360,1,Urban,Approved,Medium,6816,Low Risk
+LP001492,Male,No,0,Graduate,No,14999,0,242,360,0,Semiurban,Rejected,High,14999,High Risk
+LP001493,Male,Yes,2,Not Graduate,No,4200,1430,129,360,1,Rural,Rejected,Medium,5630,Low Risk
+LP001497,Male,Yes,2,Graduate,No,5042,2083,185,360,1,Rural,Rejected,Medium,7125,Low Risk
+LP001498,Male,No,0,Graduate,No,5417,0,168,360,1,Urban,Approved,Medium,5417,Low Risk
+LP001504,Male,No,0,Graduate,Yes,6950,0,175,180,1,Semiurban,Approved,Medium,6950,Low Risk
+LP001507,Male,Yes,0,Graduate,No,2698,2034,122,360,1,Semiurban,Approved,Low,4732,Low Risk
+LP001508,Male,Yes,2,Graduate,No,11757,0,187,180,1,Urban,Approved,High,11757,Low Risk
+LP001514,Female,Yes,0,Graduate,No,2330,4486,100,360,1,Semiurban,Approved,Low,6816,Low Risk
+LP001516,Female,Yes,2,Graduate,No,14866,0,70,360,1,Urban,Approved,High,14866,Low Risk
+LP001518,Male,Yes,1,Graduate,No,1538,1425,30,360,1,Urban,Approved,Low,2963,Low Risk
+LP001519,Female,No,0,Graduate,No,10000,1666,225,360,1,Rural,Rejected,High,11666,Low Risk
+LP001520,Male,Yes,0,Graduate,No,4860,830,125,360,1,Semiurban,Approved,Medium,5690,Low Risk
+LP001528,Male,No,0,Graduate,No,6277,0,118,360,0,Rural,Rejected,Medium,6277,High Risk
+LP001529,Male,Yes,0,Graduate,Yes,2577,3750,152,360,1,Rural,Approved,Low,6327,Low Risk
+LP001531,Male,No,0,Graduate,No,9166,0,244,360,1,Urban,Rejected,High,9166,Low Risk
+LP001532,Male,Yes,2,Not Graduate,No,2281,0,113,360,1,Rural,Rejected,Low,2281,Low Risk
+LP001535,Male,No,0,Graduate,No,3254,0,50,360,1,Urban,Approved,Medium,3254,Low Risk
+LP001536,Male,Yes,3,Graduate,No,39999,0,600,180,0,Semiurban,Approved,High,39999,High Risk
+LP001541,Male,Yes,1,Graduate,No,6000,0,160,360,1,Rural,Approved,Medium,6000,Low Risk
+LP001543,Male,Yes,1,Graduate,No,9538,0,187,360,1,Urban,Approved,High,9538,Low Risk
+LP001546,Male,No,0,Graduate,No,2980,2083,120,360,1,Rural,Approved,Low,5063,Low Risk
+LP001552,Male,Yes,0,Graduate,No,4583,5625,255,360,1,Semiurban,Approved,Medium,10208,Low Risk
+LP001560,Male,Yes,0,Not Graduate,No,1863,1041,98,360,1,Semiurban,Approved,Low,2904,Low Risk
+LP001562,Male,Yes,0,Graduate,No,7933,0,275,360,1,Urban,Rejected,High,7933,Low Risk
+LP001565,Male,Yes,1,Graduate,No,3089,1280,121,360,0,Semiurban,Rejected,Medium,4369,High Risk
+LP001570,Male,Yes,2,Graduate,No,4167,1447,158,360,1,Rural,Approved,Medium,5614,Low Risk
+LP001572,Male,Yes,0,Graduate,No,9323,0,75,180,1,Urban,Approved,High,9323,Low Risk
+LP001574,Male,Yes,0,Graduate,No,3707,3166,182,360,1,Rural,Approved,Medium,6873,Low Risk
+LP001577,Female,Yes,0,Graduate,No,4583,0,112,360,1,Rural,Rejected,Medium,4583,Low Risk
+LP001578,Male,Yes,0,Graduate,No,2439,3333,129,360,1,Rural,Approved,Low,5772,Low Risk
+LP001579,Male,No,0,Graduate,No,2237,0,63,480,0,Semiurban,Rejected,Low,2237,High Risk
+LP001580,Male,Yes,2,Graduate,No,8000,0,200,360,1,Semiurban,Approved,High,8000,Low Risk
+LP001581,Male,Yes,0,Not Graduate,No,1820,1769,95,360,1,Rural,Approved,Low,3589,Low Risk
+LP001585,Male,Yes,3,Graduate,No,51763,0,700,300,1,Urban,Approved,High,51763,Low Risk
+LP001586,Male,Yes,3,Not Graduate,No,3522,0,81,180,1,Rural,Rejected,Medium,3522,Low Risk
+LP001594,Male,Yes,0,Graduate,No,5708,5625,187,360,1,Semiurban,Approved,Medium,11333,Low Risk
+LP001603,Male,Yes,0,Not Graduate,Yes,4344,736,87,360,1,Semiurban,Rejected,Medium,5080,Low Risk
+LP001606,Male,Yes,0,Graduate,No,3497,1964,116,360,1,Rural,Approved,Medium,5461,Low Risk
+LP001608,Male,Yes,2,Graduate,No,2045,1619,101,360,1,Rural,Approved,Low,3664,Low Risk
+LP001610,Male,Yes,3,Graduate,No,5516,11300,495,360,0,Semiurban,Rejected,Medium,16816,High Risk
+LP001616,Male,Yes,1,Graduate,No,3750,0,116,360,1,Semiurban,Approved,Medium,3750,Low Risk
+LP001630,Male,No,0,Not Graduate,No,2333,1451,102,480,0,Urban,Rejected,Low,3784,High Risk
+LP001633,Male,Yes,1,Graduate,No,6400,7250,180,360,0,Urban,Rejected,Medium,13650,High Risk
+LP001634,Male,No,0,Graduate,No,1916,5063,67,360,1,Rural,Rejected,Low,6979,Low Risk
+LP001636,Male,Yes,0,Graduate,No,4600,0,73,180,1,Semiurban,Approved,Medium,4600,Low Risk
+LP001637,Male,Yes,1,Graduate,No,33846,0,260,360,1,Semiurban,Rejected,High,33846,Low Risk
+LP001639,Female,Yes,0,Graduate,No,3625,0,108,360,1,Semiurban,Approved,Medium,3625,Low Risk
+LP001640,Male,Yes,0,Graduate,Yes,39147,4750,120,360,1,Semiurban,Approved,High,43897,Low Risk
+LP001641,Male,Yes,1,Graduate,Yes,2178,0,66,300,0,Rural,Rejected,Low,2178,High Risk
+LP001643,Male,Yes,0,Graduate,No,2383,2138,58,360,1,Rural,Approved,Low,4521,Low Risk
+LP001644,Male,Yes,0,Graduate,Yes,674,5296,168,360,1,Rural,Approved,Low,5970,Low Risk
+LP001647,Male,Yes,0,Graduate,No,9328,0,188,180,1,Rural,Approved,High,9328,Low Risk
+LP001653,Male,No,0,Not Graduate,No,4885,0,48,360,1,Rural,Approved,Medium,4885,Low Risk
+LP001656,Male,No,0,Graduate,No,12000,0,164,360,1,Semiurban,Rejected,High,12000,Low Risk
+LP001657,Male,Yes,0,Not Graduate,No,6033,0,160,360,1,Urban,Rejected,Medium,6033,Low Risk
+LP001658,Male,No,0,Graduate,No,3858,0,76,360,1,Semiurban,Approved,Medium,3858,Low Risk
+LP001664,Male,No,0,Graduate,No,4191,0,120,360,1,Rural,Approved,Medium,4191,Low Risk
+LP001665,Male,Yes,1,Graduate,No,3125,2583,170,360,1,Semiurban,Rejected,Medium,5708,Low Risk
+LP001666,Male,No,0,Graduate,No,8333,3750,187,360,1,Rural,Approved,High,12083,Low Risk
+LP001669,Female,No,0,Not Graduate,No,1907,2365,120,360,1,Urban,Approved,Low,4272,Low Risk
+LP001671,Female,Yes,0,Graduate,No,3416,2816,113,360,1,Semiurban,Approved,Medium,6232,Low Risk
+LP001673,Male,No,0,Graduate,Yes,11000,0,83,360,1,Urban,Rejected,High,11000,Low Risk
+LP001674,Male,Yes,1,Not Graduate,No,2600,2500,90,360,1,Semiurban,Approved,Low,5100,Low Risk
+LP001677,Male,No,2,Graduate,No,4923,0,166,360,0,Semiurban,Approved,Medium,4923,High Risk
+LP001682,Male,Yes,3,Not Graduate,No,3992,0,146,180,1,Urban,Rejected,Medium,3992,Low Risk
+LP001688,Male,Yes,1,Not Graduate,No,3500,1083,135,360,1,Urban,Approved,Medium,4583,Low Risk
+LP001691,Male,Yes,2,Not Graduate,No,3917,0,124,360,1,Semiurban,Approved,Medium,3917,Low Risk
+LP001692,Female,No,0,Not Graduate,No,4408,0,120,360,1,Semiurban,Approved,Medium,4408,Low Risk
+LP001693,Female,No,0,Graduate,No,3244,0,80,360,1,Urban,Approved,Medium,3244,Low Risk
+LP001698,Male,No,0,Not Graduate,No,3975,2531,55,360,1,Rural,Approved,Medium,6506,Low Risk
+LP001699,Male,No,0,Graduate,No,2479,0,59,360,1,Urban,Approved,Low,2479,Low Risk
+LP001702,Male,No,0,Graduate,No,3418,0,127,360,1,Semiurban,Rejected,Medium,3418,Low Risk
+LP001708,Female,No,0,Graduate,No,10000,0,214,360,1,Semiurban,Rejected,High,10000,Low Risk
+LP001711,Male,Yes,3,Graduate,No,3430,1250,128,360,0,Semiurban,Rejected,Medium,4680,High Risk
+LP001713,Male,Yes,1,Graduate,Yes,7787,0,240,360,1,Urban,Approved,High,7787,Low Risk
+LP001715,Male,Yes,3,Not Graduate,Yes,5703,0,130,360,1,Rural,Approved,Medium,5703,Low Risk
+LP001716,Male,Yes,0,Graduate,No,3173,3021,137,360,1,Urban,Approved,Medium,6194,Low Risk
+LP001720,Male,Yes,3,Not Graduate,No,3850,983,100,360,1,Semiurban,Approved,Medium,4833,Low Risk
+LP001722,Male,Yes,0,Graduate,No,150,1800,135,360,1,Rural,Rejected,Low,1950,Low Risk
+LP001726,Male,Yes,0,Graduate,No,3727,1775,131,360,1,Semiurban,Approved,Medium,5502,Low Risk
+LP001732,Male,Yes,2,Graduate,No,5000,0,72,360,0,Semiurban,Rejected,Medium,5000,High Risk
+LP001734,Female,Yes,2,Graduate,No,4283,2383,127,360,1,Semiurban,Approved,Medium,6666,Low Risk
+LP001736,Male,Yes,0,Graduate,No,2221,0,60,360,0,Urban,Rejected,Low,2221,High Risk
+LP001743,Male,Yes,2,Graduate,No,4009,1717,116,360,1,Semiurban,Approved,Medium,5726,Low Risk
+LP001744,Male,No,0,Graduate,No,2971,2791,144,360,1,Semiurban,Approved,Low,5762,Low Risk
+LP001749,Male,Yes,0,Graduate,No,7578,1010,175,360,1,Semiurban,Approved,High,8588,Low Risk
+LP001750,Male,Yes,0,Graduate,No,6250,0,128,360,1,Semiurban,Approved,Medium,6250,Low Risk
+LP001751,Male,Yes,0,Graduate,No,3250,0,170,360,1,Rural,Rejected,Medium,3250,Low Risk
+LP001754,Male,Yes,0,Not Graduate,Yes,4735,0,138,360,1,Urban,Rejected,Medium,4735,Low Risk
+LP001758,Male,Yes,2,Graduate,No,6250,1695,210,360,1,Semiurban,Approved,Medium,7945,Low Risk
+LP001760,Male,Yes,0,Graduate,No,4758,0,158,480,1,Semiurban,Approved,Medium,4758,Low Risk
+LP001761,Male,No,0,Graduate,Yes,6400,0,200,360,1,Rural,Approved,Medium,6400,Low Risk
+LP001765,Male,Yes,1,Graduate,No,2491,2054,104,360,1,Semiurban,Approved,Low,4545,Low Risk
+LP001768,Male,Yes,0,Graduate,No,3716,0,42,180,1,Rural,Approved,Medium,3716,Low Risk
+LP001770,Male,No,0,Not Graduate,No,3189,2598,120,360,1,Rural,Approved,Medium,5787,Low Risk
+LP001776,Female,No,0,Graduate,No,8333,0,280,360,1,Semiurban,Approved,High,8333,Low Risk
+LP001778,Male,Yes,1,Graduate,No,3155,1779,140,360,1,Semiurban,Approved,Medium,4934,Low Risk
+LP001784,Male,Yes,1,Graduate,No,5500,1260,170,360,1,Rural,Approved,Medium,6760,Low Risk
+LP001786,Male,Yes,0,Graduate,No,5746,0,255,360,1,Urban,Rejected,Medium,5746,Low Risk
+LP001788,Female,No,0,Graduate,Yes,3463,0,122,360,1,Urban,Approved,Medium,3463,Low Risk
+LP001790,Female,No,1,Graduate,No,3812,0,112,360,1,Rural,Approved,Medium,3812,Low Risk
+LP001792,Male,Yes,1,Graduate,No,3315,0,96,360,1,Semiurban,Approved,Medium,3315,Low Risk
+LP001798,Male,Yes,2,Graduate,No,5819,5000,120,360,1,Rural,Approved,Medium,10819,Low Risk
+LP001800,Male,Yes,1,Not Graduate,No,2510,1983,140,180,1,Urban,Rejected,Low,4493,Low Risk
+LP001806,Male,No,0,Graduate,No,2965,5701,155,60,1,Urban,Approved,Low,8666,Low Risk
+LP001807,Male,Yes,2,Graduate,Yes,6250,1300,108,360,1,Rural,Approved,Medium,7550,Low Risk
+LP001811,Male,Yes,0,Not Graduate,No,3406,4417,123,360,1,Semiurban,Approved,Medium,7823,Low Risk
+LP001813,Male,No,0,Graduate,Yes,6050,4333,120,180,1,Urban,Rejected,Medium,10383,Low Risk
+LP001814,Male,Yes,2,Graduate,No,9703,0,112,360,1,Urban,Approved,High,9703,Low Risk
+LP001819,Male,Yes,1,Not Graduate,No,6608,0,137,180,1,Urban,Approved,Medium,6608,Low Risk
+LP001824,Male,Yes,1,Graduate,No,2882,1843,123,480,1,Semiurban,Approved,Low,4725,Low Risk
+LP001825,Male,Yes,0,Graduate,No,1809,1868,90,360,1,Urban,Approved,Low,3677,Low Risk
+LP001835,Male,Yes,0,Not Graduate,No,1668,3890,201,360,0,Semiurban,Rejected,Low,5558,High Risk
+LP001836,Female,No,2,Graduate,No,3427,0,138,360,1,Urban,Rejected,Medium,3427,Low Risk
+LP001841,Male,No,0,Not Graduate,Yes,2583,2167,104,360,1,Rural,Approved,Low,4750,Low Risk
+LP001843,Male,Yes,1,Not Graduate,No,2661,7101,279,180,1,Semiurban,Approved,Low,9762,Low Risk
+LP001844,Male,No,0,Graduate,Yes,16250,0,192,360,0,Urban,Rejected,High,16250,High Risk
+LP001846,Female,No,3,Graduate,No,3083,0,255,360,1,Rural,Approved,Medium,3083,Low Risk
+LP001849,Male,No,0,Not Graduate,No,6045,0,115,360,0,Rural,Rejected,Medium,6045,High Risk
+LP001854,Male,Yes,3,Graduate,No,5250,0,94,360,1,Urban,Rejected,Medium,5250,Low Risk
+LP001859,Male,Yes,0,Graduate,No,14683,2100,304,360,1,Rural,Rejected,High,16783,Low Risk
+LP001864,Male,Yes,3,Not Graduate,No,4931,0,128,360,1,Semiurban,Rejected,Medium,4931,Low Risk
+LP001865,Male,Yes,1,Graduate,No,6083,4250,330,360,1,Urban,Approved,Medium,10333,Low Risk
+LP001868,Male,No,0,Graduate,No,2060,2209,134,360,1,Semiurban,Approved,Low,4269,Low Risk
+LP001870,Female,No,1,Graduate,No,3481,0,155,36,1,Semiurban,Rejected,Medium,3481,Low Risk
+LP001871,Female,No,0,Graduate,No,7200,0,120,360,1,Rural,Approved,High,7200,Low Risk
+LP001872,Male,No,0,Graduate,Yes,5166,0,128,360,1,Semiurban,Approved,Medium,5166,Low Risk
+LP001875,Male,No,0,Graduate,No,4095,3447,151,360,1,Rural,Approved,Medium,7542,Low Risk
+LP001877,Male,Yes,2,Graduate,No,4708,1387,150,360,1,Semiurban,Approved,Medium,6095,Low Risk
+LP001882,Male,Yes,3,Graduate,No,4333,1811,160,360,0,Urban,Approved,Medium,6144,High Risk
+LP001883,Female,No,0,Graduate,No,3418,0,135,360,1,Rural,Rejected,Medium,3418,Low Risk
+LP001884,Female,No,1,Graduate,No,2876,1560,90,360,1,Urban,Approved,Low,4436,Low Risk
+LP001888,Female,No,0,Graduate,No,3237,0,30,360,1,Urban,Approved,Medium,3237,Low Risk
+LP001891,Male,Yes,0,Graduate,No,11146,0,136,360,1,Urban,Approved,High,11146,Low Risk
+LP001892,Male,No,0,Graduate,No,2833,1857,126,360,1,Rural,Approved,Low,4690,Low Risk
+LP001894,Male,Yes,0,Graduate,No,2620,2223,150,360,1,Semiurban,Approved,Low,4843,Low Risk
+LP001896,Male,Yes,2,Graduate,No,3900,0,90,360,1,Semiurban,Approved,Medium,3900,Low Risk
+LP001900,Male,Yes,1,Graduate,No,2750,1842,115,360,1,Semiurban,Approved,Low,4592,Low Risk
+LP001903,Male,Yes,0,Graduate,No,3993,3274,207,360,1,Semiurban,Approved,Medium,7267,Low Risk
+LP001904,Male,Yes,0,Graduate,No,3103,1300,80,360,1,Urban,Approved,Medium,4403,Low Risk
+LP001907,Male,Yes,0,Graduate,No,14583,0,436,360,1,Semiurban,Approved,High,14583,Low Risk
+LP001908,Female,Yes,0,Not Graduate,No,4100,0,124,360,1,Rural,Approved,Medium,4100,Low Risk
+LP001910,Male,No,1,Not Graduate,Yes,4053,2426,158,360,0,Urban,Rejected,Medium,6479,High Risk
+LP001914,Male,Yes,0,Graduate,No,3927,800,112,360,1,Semiurban,Approved,Medium,4727,Low Risk
+LP001915,Male,Yes,2,Graduate,No,2301,985.7999878,78,180,1,Urban,Approved,Low,3286.799988,Low Risk
+LP001917,Female,No,0,Graduate,No,1811,1666,54,360,1,Urban,Approved,Low,3477,Low Risk
+LP001922,Male,Yes,0,Graduate,No,20667,0,146,360,1,Rural,Rejected,High,20667,Low Risk
+LP001924,Male,No,0,Graduate,No,3158,3053,89,360,1,Rural,Approved,Medium,6211,Low Risk
+LP001925,Female,No,0,Graduate,Yes,2600,1717,99,300,1,Semiurban,Rejected,Low,4317,Low Risk
+LP001926,Male,Yes,0,Graduate,No,3704,2000,120,360,1,Rural,Approved,Medium,5704,Low Risk
+LP001931,Female,No,0,Graduate,No,4124,0,115,360,1,Semiurban,Approved,Medium,4124,Low Risk
+LP001935,Male,No,0,Graduate,No,9508,0,187,360,1,Rural,Approved,High,9508,Low Risk
+LP001936,Male,Yes,0,Graduate,No,3075,2416,139,360,1,Rural,Approved,Medium,5491,Low Risk
+LP001938,Male,Yes,2,Graduate,No,4400,0,127,360,0,Semiurban,Rejected,Medium,4400,High Risk
+LP001940,Male,Yes,2,Graduate,No,3153,1560,134,360,1,Urban,Approved,Medium,4713,Low Risk
+LP001945,Female,No,0,Graduate,No,5417,0,143,480,0,Urban,Rejected,Medium,5417,High Risk
+LP001947,Male,Yes,0,Graduate,No,2383,3334,172,360,1,Semiurban,Approved,Low,5717,Low Risk
+LP001949,Male,Yes,3,Graduate,No,4416,1250,110,360,1,Urban,Approved,Medium,5666,Low Risk
+LP001953,Male,Yes,1,Graduate,No,6875,0,200,360,1,Semiurban,Approved,Medium,6875,Low Risk
+LP001954,Female,Yes,1,Graduate,No,4666,0,135,360,1,Urban,Approved,Medium,4666,Low Risk
+LP001955,Female,No,0,Graduate,No,5000,2541,151,480,1,Rural,Rejected,Medium,7541,Low Risk
+LP001963,Male,Yes,1,Graduate,No,2014,2925,113,360,1,Urban,Rejected,Low,4939,Low Risk
+LP001964,Male,Yes,0,Not Graduate,No,1800,2934,93,360,0,Urban,Rejected,Low,4734,High Risk
+LP001972,Male,Yes,0,Not Graduate,No,2875,1750,105,360,1,Semiurban,Approved,Low,4625,Low Risk
+LP001974,Female,No,0,Graduate,No,5000,0,132,360,1,Rural,Approved,Medium,5000,Low Risk
+LP001977,Male,Yes,1,Graduate,No,1625,1803,96,360,1,Urban,Approved,Low,3428,Low Risk
+LP001978,Male,No,0,Graduate,No,4000,2500,140,360,1,Rural,Approved,Medium,6500,Low Risk
+LP001990,Male,No,0,Not Graduate,No,2000,0,146,360,1,Urban,Rejected,Low,2000,Low Risk
+LP001993,Female,No,0,Graduate,No,3762,1666,135,360,1,Rural,Approved,Medium,5428,Low Risk
+LP001994,Female,No,0,Graduate,No,2400,1863,104,360,0,Urban,Rejected,Low,4263,High Risk
+LP001996,Male,No,0,Graduate,No,20233,0,480,360,1,Rural,Rejected,High,20233,Low Risk
+LP001998,Male,Yes,2,Not Graduate,No,7667,0,185,360,1,Rural,Approved,High,7667,Low Risk
+LP002002,Female,No,0,Graduate,No,2917,0,84,360,1,Semiurban,Approved,Low,2917,Low Risk
+LP002004,Male,No,0,Not Graduate,No,2927,2405,111,360,1,Semiurban,Approved,Low,5332,Low Risk
+LP002006,Female,No,0,Graduate,No,2507,0,56,360,1,Rural,Approved,Low,2507,Low Risk
+LP002008,Male,Yes,2,Graduate,Yes,5746,0,144,84,1,Rural,Approved,Medium,5746,Low Risk
+LP002024,Male,Yes,0,Graduate,No,2473,1843,159,360,1,Rural,Rejected,Low,4316,Low Risk
+LP002031,Male,Yes,1,Not Graduate,No,3399,1640,111,180,1,Urban,Approved,Medium,5039,Low Risk
+LP002035,Male,Yes,2,Graduate,No,3717,0,120,360,1,Semiurban,Approved,Medium,3717,Low Risk
+LP002036,Male,Yes,0,Graduate,No,2058,2134,88,360,1,Urban,Approved,Low,4192,Low Risk
+LP002043,Female,No,1,Graduate,No,3541,0,112,360,1,Semiurban,Approved,Medium,3541,Low Risk
+LP002050,Male,Yes,1,Graduate,Yes,10000,0,155,360,1,Rural,Rejected,High,10000,Low Risk
+LP002051,Male,Yes,0,Graduate,No,2400,2167,115,360,1,Semiurban,Approved,Low,4567,Low Risk
+LP002053,Male,Yes,3,Graduate,No,4342,189,124,360,1,Semiurban,Approved,Medium,4531,Low Risk
+LP002054,Male,Yes,2,Not Graduate,No,3601,1590,146,360,1,Rural,Approved,Medium,5191,Low Risk
+LP002055,Female,No,0,Graduate,No,3166,2985,132,360,1,Rural,Approved,Medium,6151,Low Risk
+LP002065,Male,Yes,3,Graduate,No,15000,0,300,360,1,Rural,Approved,High,15000,Low Risk
+LP002067,Male,Yes,1,Graduate,Yes,8666,4983,376,360,0,Rural,Rejected,High,13649,High Risk
+LP002068,Male,No,0,Graduate,No,4917,0,130,360,0,Rural,Approved,Medium,4917,High Risk
+LP002082,Male,Yes,0,Graduate,Yes,5818,2160,184,360,1,Semiurban,Approved,Medium,7978,Low Risk
+LP002086,Female,Yes,0,Graduate,No,4333,2451,110,360,1,Urban,Rejected,Medium,6784,Low Risk
+LP002087,Female,No,0,Graduate,No,2500,0,67,360,1,Urban,Approved,Low,2500,Low Risk
+LP002097,Male,No,1,Graduate,No,4384,1793,117,360,1,Urban,Approved,Medium,6177,Low Risk
+LP002098,Male,No,0,Graduate,No,2935,0,98,360,1,Semiurban,Approved,Low,2935,Low Risk
+LP002100,Male,No,0,Graduate,No,2833,0,71,360,1,Urban,Approved,Low,2833,Low Risk
+LP002101,Male,Yes,0,Graduate,No,63337,0,490,180,1,Urban,Approved,High,63337,Low Risk
+LP002103,Male,Yes,1,Graduate,Yes,9833,1833,182,180,1,Urban,Approved,High,11666,Low Risk
+LP002106,Male,Yes,0,Graduate,Yes,5503,4490,70,360,1,Semiurban,Approved,Medium,9993,Low Risk
+LP002110,Male,Yes,1,Graduate,No,5250,688,160,360,1,Rural,Approved,Medium,5938,Low Risk
+LP002112,Male,Yes,2,Graduate,Yes,2500,4600,176,360,1,Rural,Approved,Low,7100,Low Risk
+LP002113,Female,No,3,Not Graduate,No,1830,0,146,360,0,Urban,Rejected,Low,1830,High Risk
+LP002114,Female,No,0,Graduate,No,4160,0,71,360,1,Semiurban,Approved,Medium,4160,Low Risk
+LP002115,Male,Yes,3,Not Graduate,No,2647,1587,173,360,1,Rural,Rejected,Low,4234,Low Risk
+LP002116,Female,No,0,Graduate,No,2378,0,46,360,1,Rural,Rejected,Low,2378,Low Risk
+LP002119,Male,Yes,1,Not Graduate,No,4554,1229,158,360,1,Urban,Approved,Medium,5783,Low Risk
+LP002126,Male,Yes,3,Not Graduate,No,3173,0,74,360,1,Semiurban,Approved,Medium,3173,Low Risk
+LP002128,Male,Yes,2,Graduate,No,2583,2330,125,360,1,Rural,Approved,Low,4913,Low Risk
+LP002129,Male,Yes,0,Graduate,No,2499,2458,160,360,1,Semiurban,Approved,Low,4957,Low Risk
+LP002130,Male,Yes,0,Not Graduate,No,3523,3230,152,360,0,Rural,Rejected,Medium,6753,High Risk
+LP002131,Male,Yes,2,Not Graduate,No,3083,2168,126,360,1,Urban,Approved,Medium,5251,Low Risk
+LP002137,Male,Yes,0,Graduate,No,6333,4583,259,360,1,Semiurban,Approved,Medium,10916,Low Risk
+LP002138,Male,Yes,0,Graduate,No,2625,6250,187,360,1,Rural,Approved,Low,8875,Low Risk
+LP002139,Male,Yes,0,Graduate,No,9083,0,228,360,1,Semiurban,Approved,High,9083,Low Risk
+LP002140,Male,No,0,Graduate,No,8750,4167,308,360,1,Rural,Rejected,High,12917,Low Risk
+LP002141,Male,Yes,3,Graduate,No,2666,2083,95,360,1,Rural,Approved,Low,4749,Low Risk
+LP002142,Female,Yes,0,Graduate,Yes,5500,0,105,360,0,Rural,Rejected,Medium,5500,High Risk
+LP002143,Female,Yes,0,Graduate,No,2423,505,130,360,1,Semiurban,Approved,Low,2928,Low Risk
+LP002144,Female,No,0,Graduate,No,3813,0,116,180,1,Urban,Approved,Medium,3813,Low Risk
+LP002149,Male,Yes,2,Graduate,No,8333,3167,165,360,1,Rural,Approved,High,11500,Low Risk
+LP002151,Male,Yes,1,Graduate,No,3875,0,67,360,1,Urban,Rejected,Medium,3875,Low Risk
+LP002158,Male,Yes,0,Not Graduate,No,3000,1666,100,480,0,Urban,Rejected,Medium,4666,High Risk
+LP002160,Male,Yes,3,Graduate,No,5167,3167,200,360,1,Semiurban,Approved,Medium,8334,Low Risk
+LP002161,Female,No,1,Graduate,No,4723,0,81,360,1,Semiurban,Rejected,Medium,4723,Low Risk
+LP002170,Male,Yes,2,Graduate,No,5000,3667,236,360,1,Semiurban,Approved,Medium,8667,Low Risk
+LP002175,Male,Yes,0,Graduate,No,4750,2333,130,360,1,Urban,Approved,Medium,7083,Low Risk
+LP002178,Male,Yes,0,Graduate,No,3013,3033,95,300,1,Urban,Approved,Medium,6046,Low Risk
+LP002180,Male,No,0,Graduate,Yes,6822,0,141,360,1,Rural,Approved,Medium,6822,Low Risk
+LP002181,Male,No,0,Not Graduate,No,6216,0,133,360,1,Rural,Rejected,Medium,6216,Low Risk
+LP002187,Male,No,0,Graduate,No,2500,0,96,480,1,Semiurban,Rejected,Low,2500,Low Risk
+LP002188,Male,No,0,Graduate,No,5124,0,124,360,0,Rural,Rejected,Medium,5124,High Risk
+LP002190,Male,Yes,1,Graduate,No,6325,0,175,360,1,Semiurban,Approved,Medium,6325,Low Risk
+LP002191,Male,Yes,0,Graduate,No,19730,5266,570,360,1,Rural,Rejected,High,24996,Low Risk
+LP002194,Female,No,0,Graduate,Yes,15759,0,55,360,1,Semiurban,Approved,High,15759,Low Risk
+LP002197,Male,Yes,2,Graduate,No,5185,0,155,360,1,Semiurban,Approved,Medium,5185,Low Risk
+LP002201,Male,Yes,2,Graduate,Yes,9323,7873,380,300,1,Rural,Approved,High,17196,Low Risk
+LP002205,Male,No,1,Graduate,No,3062,1987,111,180,0,Urban,Rejected,Medium,5049,High Risk
+LP002209,Female,No,0,Graduate,No,2764,1459,110,360,1,Urban,Approved,Low,4223,Low Risk
+LP002211,Male,Yes,0,Graduate,No,4817,923,120,180,1,Urban,Approved,Medium,5740,Low Risk
+LP002219,Male,Yes,3,Graduate,No,8750,4996,130,360,1,Rural,Approved,High,13746,Low Risk
+LP002223,Male,Yes,0,Graduate,No,4310,0,130,360,1,Semiurban,Approved,Medium,4310,Low Risk
+LP002224,Male,No,0,Graduate,No,3069,0,71,480,1,Urban,Rejected,Medium,3069,Low Risk
+LP002225,Male,Yes,2,Graduate,No,5391,0,130,360,1,Urban,Approved,Medium,5391,Low Risk
+LP002226,Male,Yes,0,Graduate,No,3333,2500,128,360,1,Semiurban,Approved,Medium,5833,Low Risk
+LP002229,Male,No,0,Graduate,No,5941,4232,296,360,1,Semiurban,Approved,Medium,10173,Low Risk
+LP002231,Female,No,0,Graduate,No,6000,0,156,360,1,Urban,Approved,Medium,6000,Low Risk
+LP002234,Male,No,0,Graduate,Yes,7167,0,128,360,1,Urban,Approved,High,7167,Low Risk
+LP002236,Male,Yes,2,Graduate,No,4566,0,100,360,1,Urban,Rejected,Medium,4566,Low Risk
+LP002237,Male,No,1,Graduate,No,3667,0,113,180,1,Urban,Approved,Medium,3667,Low Risk
+LP002239,Male,No,0,Not Graduate,No,2346,1600,132,360,1,Semiurban,Approved,Low,3946,Low Risk
+LP002243,Male,Yes,0,Not Graduate,No,3010,3136,146,360,0,Urban,Rejected,Medium,6146,High Risk
+LP002244,Male,Yes,0,Graduate,No,2333,2417,136,360,1,Urban,Approved,Low,4750,Low Risk
+LP002250,Male,Yes,0,Graduate,No,5488,0,125,360,1,Rural,Approved,Medium,5488,Low Risk
+LP002255,Male,No,3,Graduate,No,9167,0,185,360,1,Rural,Approved,High,9167,Low Risk
+LP002262,Male,Yes,3,Graduate,No,9504,0,275,360,1,Rural,Approved,High,9504,Low Risk
+LP002263,Male,Yes,0,Graduate,No,2583,2115,120,360,1,Urban,Approved,Low,4698,Low Risk
+LP002265,Male,Yes,2,Not Graduate,No,1993,1625,113,180,1,Semiurban,Approved,Low,3618,Low Risk
+LP002266,Male,Yes,2,Graduate,No,3100,1400,113,360,1,Urban,Approved,Medium,4500,Low Risk
+LP002272,Male,Yes,2,Graduate,No,3276,484,135,360,1,Semiurban,Approved,Medium,3760,Low Risk
+LP002277,Female,No,0,Graduate,No,3180,0,71,360,0,Urban,Rejected,Medium,3180,High Risk
+LP002281,Male,Yes,0,Graduate,No,3033,1459,95,360,1,Urban,Approved,Medium,4492,Low Risk
+LP002284,Male,No,0,Not Graduate,No,3902,1666,109,360,1,Rural,Approved,Medium,5568,Low Risk
+LP002287,Female,No,0,Graduate,No,1500,1800,103,360,0,Semiurban,Rejected,Low,3300,High Risk
+LP002288,Male,Yes,2,Not Graduate,No,2889,0,45,180,0,Urban,Rejected,Low,2889,High Risk
+LP002296,Male,No,0,Not Graduate,No,2755,0,65,300,1,Rural,Rejected,Low,2755,Low Risk
+LP002297,Male,No,0,Graduate,No,2500,20000,103,360,1,Semiurban,Approved,Low,22500,Low Risk
+LP002300,Female,No,0,Not Graduate,No,1963,0,53,360,1,Semiurban,Approved,Low,1963,Low Risk
+LP002301,Female,No,0,Graduate,Yes,7441,0,194,360,1,Rural,Rejected,High,7441,Low Risk
+LP002305,Female,No,0,Graduate,No,4547,0,115,360,1,Semiurban,Approved,Medium,4547,Low Risk
+LP002308,Male,Yes,0,Not Graduate,No,2167,2400,115,360,1,Urban,Approved,Low,4567,Low Risk
+LP002314,Female,No,0,Not Graduate,No,2213,0,66,360,1,Rural,Approved,Low,2213,Low Risk
+LP002315,Male,Yes,1,Graduate,No,8300,0,152,300,0,Semiurban,Rejected,High,8300,High Risk
+LP002317,Male,Yes,3,Graduate,No,81000,0,360,360,0,Rural,Rejected,High,81000,High Risk
+LP002318,Female,No,1,Not Graduate,Yes,3867,0,62,360,1,Semiurban,Rejected,Medium,3867,Low Risk
+LP002319,Male,Yes,0,Graduate,No,6256,0,160,360,1,Urban,Approved,Medium,6256,Low Risk
+LP002328,Male,Yes,0,Not Graduate,No,6096,0,218,360,0,Rural,Rejected,Medium,6096,High Risk
+LP002332,Male,Yes,0,Not Graduate,No,2253,2033,110,360,1,Rural,Approved,Low,4286,Low Risk
+LP002335,Female,Yes,0,Not Graduate,No,2149,3237,178,360,0,Semiurban,Rejected,Low,5386,High Risk
+LP002337,Female,No,0,Graduate,No,2995,0,60,360,1,Urban,Approved,Low,2995,Low Risk
+LP002341,Female,No,1,Graduate,No,2600,0,160,360,1,Urban,Rejected,Low,2600,Low Risk
+LP002342,Male,Yes,2,Graduate,Yes,1600,20000,239,360,1,Urban,Rejected,Low,21600,Low Risk
+LP002345,Male,Yes,0,Graduate,No,1025,2773,112,360,1,Rural,Approved,Low,3798,Low Risk
+LP002347,Male,Yes,0,Graduate,No,3246,1417,138,360,1,Semiurban,Approved,Medium,4663,Low Risk
+LP002348,Male,Yes,0,Graduate,No,5829,0,138,360,1,Rural,Approved,Medium,5829,Low Risk
+LP002357,Female,No,0,Not Graduate,No,2720,0,80,360,0,Urban,Rejected,Low,2720,High Risk
+LP002361,Male,Yes,0,Graduate,No,1820,1719,100,360,1,Urban,Approved,Low,3539,Low Risk
+LP002362,Male,Yes,1,Graduate,No,7250,1667,110,360,0,Urban,Rejected,High,8917,High Risk
+LP002364,Male,Yes,0,Graduate,No,14880,0,96,360,1,Semiurban,Approved,High,14880,Low Risk
+LP002366,Male,Yes,0,Graduate,No,2666,4300,121,360,1,Rural,Approved,Low,6966,Low Risk
+LP002367,Female,No,1,Not Graduate,No,4606,0,81,360,1,Rural,Rejected,Medium,4606,Low Risk
+LP002368,Male,Yes,2,Graduate,No,5935,0,133,360,1,Semiurban,Approved,Medium,5935,Low Risk
+LP002369,Male,Yes,0,Graduate,No,2920,16.12000084,87,360,1,Rural,Approved,Low,2936.120001,Low Risk
+LP002370,Male,No,0,Not Graduate,No,2717,0,60,180,1,Urban,Approved,Low,2717,Low Risk
+LP002377,Female,No,1,Graduate,Yes,8624,0,150,360,1,Semiurban,Approved,High,8624,Low Risk
+LP002379,Male,No,0,Graduate,No,6500,0,105,360,0,Rural,Rejected,Medium,6500,High Risk
+LP002386,Male,No,0,Graduate,No,12876,0,405,360,1,Semiurban,Approved,High,12876,Low Risk
+LP002387,Male,Yes,0,Graduate,No,2425,2340,143,360,1,Semiurban,Approved,Low,4765,Low Risk
+LP002390,Male,No,0,Graduate,No,3750,0,100,360,1,Urban,Approved,Medium,3750,Low Risk
+LP002393,Female,Yes,0,Graduate,No,10047,0,146,240,1,Semiurban,Approved,High,10047,Low Risk
+LP002398,Male,No,0,Graduate,No,1926,1851,50,360,1,Semiurban,Approved,Low,3777,Low Risk
+LP002401,Male,Yes,0,Graduate,No,2213,1125,146,360,1,Urban,Approved,Low,3338,Low Risk
+LP002403,Male,No,0,Graduate,Yes,10416,0,187,360,0,Urban,Rejected,High,10416,High Risk
+LP002407,Female,Yes,0,Not Graduate,Yes,7142,0,138,360,1,Rural,Approved,High,7142,Low Risk
+LP002408,Male,No,0,Graduate,No,3660,5064,187,360,1,Semiurban,Approved,Medium,8724,Low Risk
+LP002409,Male,Yes,0,Graduate,No,7901,1833,180,360,1,Rural,Approved,High,9734,Low Risk
+LP002418,Male,No,3,Not Graduate,No,4707,1993,148,360,1,Semiurban,Approved,Medium,6700,Low Risk
+LP002422,Male,No,1,Graduate,No,37719,0,152,360,1,Semiurban,Approved,High,37719,Low Risk
+LP002424,Male,Yes,0,Graduate,No,7333,8333,175,300,1,Rural,Approved,High,15666,Low Risk
+LP002429,Male,Yes,1,Graduate,Yes,3466,1210,130,360,1,Rural,Approved,Medium,4676,Low Risk
+LP002434,Male,Yes,2,Not Graduate,No,4652,0,110,360,1,Rural,Approved,Medium,4652,Low Risk
+LP002435,Male,Yes,0,Graduate,No,3539,1376,55,360,1,Rural,Rejected,Medium,4915,Low Risk
+LP002443,Male,Yes,2,Graduate,No,3340,1710,150,360,0,Rural,Rejected,Medium,5050,High Risk
+LP002444,Male,No,1,Not Graduate,Yes,2769,1542,190,360,1,Semiurban,Rejected,Low,4311,Low Risk
+LP002446,Male,Yes,2,Not Graduate,No,2309,1255,125,360,0,Rural,Rejected,Low,3564,High Risk
+LP002447,Male,Yes,2,Not Graduate,No,1958,1456,60,300,1,Urban,Approved,Low,3414,Low Risk
+LP002448,Male,Yes,0,Graduate,No,3948,1733,149,360,0,Rural,Rejected,Medium,5681,High Risk
+LP002449,Male,Yes,0,Graduate,No,2483,2466,90,180,0,Rural,Approved,Low,4949,High Risk
+LP002453,Male,No,0,Graduate,Yes,7085,0,84,360,1,Semiurban,Approved,High,7085,Low Risk
+LP002455,Male,Yes,2,Graduate,No,3859,0,96,360,1,Semiurban,Approved,Medium,3859,Low Risk
+LP002459,Male,Yes,0,Graduate,No,4301,0,118,360,1,Urban,Approved,Medium,4301,Low Risk
+LP002467,Male,Yes,0,Graduate,No,3708,2569,173,360,1,Urban,Rejected,Medium,6277,Low Risk
+LP002472,Male,No,2,Graduate,No,4354,0,136,360,1,Rural,Approved,Medium,4354,Low Risk
+LP002473,Male,Yes,0,Graduate,No,8334,0,160,360,1,Semiurban,Rejected,High,8334,Low Risk
+LP002478,Male,Yes,0,Graduate,Yes,2083,4083,160,360,1,Semiurban,Approved,Low,6166,Low Risk
+LP002484,Male,Yes,3,Graduate,No,7740,0,128,180,1,Urban,Approved,High,7740,Low Risk
+LP002487,Male,Yes,0,Graduate,No,3015,2188,153,360,1,Rural,Approved,Medium,5203,Low Risk
+LP002489,Female,No,1,Not Graduate,No,5191,0,132,360,1,Semiurban,Approved,Medium,5191,Low Risk
+LP002493,Male,No,0,Graduate,No,4166,0,98,360,0,Semiurban,Rejected,Medium,4166,High Risk
+LP002494,Male,No,0,Graduate,No,6000,0,140,360,1,Rural,Approved,Medium,6000,Low Risk
+LP002500,Male,Yes,3,Not Graduate,No,2947,1664,70,180,0,Urban,Rejected,Low,4611,High Risk
+LP002501,Male,Yes,0,Graduate,No,16692,0,110,360,1,Semiurban,Approved,High,16692,Low Risk
+LP002502,Female,Yes,2,Not Graduate,No,210,2917,98,360,1,Semiurban,Approved,Low,3127,Low Risk
+LP002505,Male,Yes,0,Graduate,No,4333,2451,110,360,1,Urban,Rejected,Medium,6784,Low Risk
+LP002515,Male,Yes,1,Graduate,Yes,3450,2079,162,360,1,Semiurban,Approved,Medium,5529,Low Risk
+LP002517,Male,Yes,1,Not Graduate,No,2653,1500,113,180,0,Rural,Rejected,Low,4153,High Risk
+LP002519,Male,Yes,3,Graduate,No,4691,0,100,360,1,Semiurban,Approved,Medium,4691,Low Risk
+LP002522,Female,No,0,Graduate,Yes,2500,0,93,360,1,Urban,Approved,Low,2500,Low Risk
+LP002524,Male,No,2,Graduate,No,5532,4648,162,360,1,Rural,Approved,Medium,10180,Low Risk
+LP002527,Male,Yes,2,Graduate,Yes,16525,1014,150,360,1,Rural,Approved,High,17539,Low Risk
+LP002529,Male,Yes,2,Graduate,No,6700,1750,230,300,1,Semiurban,Approved,Medium,8450,Low Risk
+LP002530,Male,Yes,2,Graduate,No,2873,1872,132,360,0,Semiurban,Rejected,Low,4745,High Risk
+LP002531,Male,Yes,1,Graduate,Yes,16667,2250,86,360,1,Semiurban,Approved,High,18917,Low Risk
+LP002533,Male,Yes,2,Graduate,No,2947,1603,146,360,1,Urban,Rejected,Low,4550,Low Risk
+LP002534,Female,No,0,Not Graduate,No,4350,0,154,360,1,Rural,Approved,Medium,4350,Low Risk
+LP002536,Male,Yes,3,Not Graduate,No,3095,0,113,360,1,Rural,Approved,Medium,3095,Low Risk
+LP002537,Male,Yes,0,Graduate,No,2083,3150,128,360,1,Semiurban,Approved,Low,5233,Low Risk
+LP002541,Male,Yes,0,Graduate,No,10833,0,234,360,1,Semiurban,Approved,High,10833,Low Risk
+LP002543,Male,Yes,2,Graduate,No,8333,0,246,360,1,Semiurban,Approved,High,8333,Low Risk
+LP002544,Male,Yes,1,Not Graduate,No,1958,2436,131,360,1,Rural,Approved,Low,4394,Low Risk
+LP002545,Male,No,2,Graduate,No,3547,0,80,360,0,Rural,Rejected,Medium,3547,High Risk
+LP002547,Male,Yes,1,Graduate,No,18333,0,500,360,1,Urban,Rejected,High,18333,Low Risk
+LP002555,Male,Yes,2,Graduate,Yes,4583,2083,160,360,1,Semiurban,Approved,Medium,6666,Low Risk
+LP002556,Male,No,0,Graduate,No,2435,0,75,360,1,Urban,Rejected,Low,2435,Low Risk
+LP002560,Male,No,0,Not Graduate,No,2699,2785,96,360,1,Semiurban,Approved,Low,5484,Low Risk
+LP002562,Male,Yes,1,Not Graduate,No,5333,1131,186,360,1,Urban,Approved,Medium,6464,Low Risk
+LP002571,Male,No,0,Not Graduate,No,3691,0,110,360,1,Rural,Approved,Medium,3691,Low Risk
+LP002582,Female,No,0,Not Graduate,Yes,17263,0,225,360,1,Semiurban,Approved,High,17263,Low Risk
+LP002585,Male,Yes,0,Graduate,No,3597,2157,119,360,0,Rural,Rejected,Medium,5754,High Risk
+LP002586,Female,Yes,1,Graduate,No,3326,913,105,84,1,Semiurban,Approved,Medium,4239,Low Risk
+LP002587,Male,Yes,0,Not Graduate,No,2600,1700,107,360,1,Rural,Approved,Low,4300,Low Risk
+LP002588,Male,Yes,0,Graduate,No,4625,2857,111,12,1,Urban,Approved,Medium,7482,Low Risk
+LP002600,Male,Yes,1,Graduate,Yes,2895,0,95,360,1,Semiurban,Approved,Low,2895,Low Risk
+LP002602,Male,No,0,Graduate,No,6283,4416,209,360,0,Rural,Rejected,Medium,10699,High Risk
+LP002603,Female,No,0,Graduate,No,645,3683,113,480,1,Rural,Approved,Low,4328,Low Risk
+LP002606,Female,No,0,Graduate,No,3159,0,100,360,1,Semiurban,Approved,Medium,3159,Low Risk
+LP002615,Male,Yes,2,Graduate,No,4865,5624,208,360,1,Semiurban,Approved,Medium,10489,Low Risk
+LP002618,Male,Yes,1,Not Graduate,No,4050,5302,138,360,1,Rural,Rejected,Medium,9352,Low Risk
+LP002619,Male,Yes,0,Not Graduate,No,3814,1483,124,300,1,Semiurban,Approved,Medium,5297,Low Risk
+LP002622,Male,Yes,2,Graduate,No,3510,4416,243,360,1,Rural,Approved,Medium,7926,Low Risk
+LP002624,Male,Yes,0,Graduate,No,20833,6667,480,360,1,Urban,Approved,High,27500,Low Risk
+LP002625,Male,No,0,Graduate,No,3583,0,96,360,1,Urban,Rejected,Medium,3583,Low Risk
+LP002626,Male,Yes,0,Graduate,Yes,2479,3013,188,360,1,Urban,Approved,Low,5492,Low Risk
+LP002634,Female,No,1,Graduate,No,13262,0,40,360,1,Urban,Approved,High,13262,Low Risk
+LP002637,Male,No,0,Not Graduate,No,3598,1287,100,360,1,Rural,Rejected,Medium,4885,Low Risk
+LP002640,Male,Yes,1,Graduate,No,6065,2004,250,360,1,Semiurban,Approved,Medium,8069,Low Risk
+LP002643,Male,Yes,2,Graduate,No,3283,2035,148,360,1,Urban,Approved,Medium,5318,Low Risk
+LP002648,Male,Yes,0,Graduate,No,2130,6666,70,180,1,Semiurban,Rejected,Low,8796,Low Risk
+LP002652,Male,No,0,Graduate,No,5815,3666,311,360,1,Rural,Rejected,Medium,9481,Low Risk
+LP002659,Male,Yes,3,Graduate,No,3466,3428,150,360,1,Rural,Approved,Medium,6894,Low Risk
+LP002670,Female,Yes,2,Graduate,No,2031,1632,113,480,1,Semiurban,Approved,Low,3663,Low Risk
+LP002682,Male,Yes,0,Not Graduate,No,3074,1800,123,360,0,Semiurban,Rejected,Medium,4874,High Risk
+LP002683,Male,No,0,Graduate,No,4683,1915,185,360,1,Semiurban,Rejected,Medium,6598,Low Risk
+LP002684,Female,No,0,Not Graduate,No,3400,0,95,360,1,Rural,Rejected,Medium,3400,Low Risk
+LP002689,Male,Yes,2,Not Graduate,No,2192,1742,45,360,1,Semiurban,Approved,Low,3934,Low Risk
+LP002690,Male,No,0,Graduate,No,2500,0,55,360,1,Semiurban,Approved,Low,2500,Low Risk
+LP002692,Male,Yes,3,Graduate,Yes,5677,1424,100,360,1,Rural,Approved,Medium,7101,Low Risk
+LP002693,Male,Yes,2,Graduate,Yes,7948,7166,480,360,1,Rural,Approved,High,15114,Low Risk
+LP002697,Male,No,0,Graduate,No,4680,2087,146,360,1,Semiurban,Rejected,Medium,6767,Low Risk
+LP002699,Male,Yes,2,Graduate,Yes,17500,0,400,360,1,Rural,Approved,High,17500,Low Risk
+LP002705,Male,Yes,0,Graduate,No,3775,0,110,360,1,Semiurban,Approved,Medium,3775,Low Risk
+LP002706,Male,Yes,1,Not Graduate,No,5285,1430,161,360,0,Semiurban,Approved,Medium,6715,High Risk
+LP002714,Male,No,1,Not Graduate,No,2679,1302,94,360,1,Semiurban,Approved,Low,3981,Low Risk
+LP002716,Male,No,0,Not Graduate,No,6783,0,130,360,1,Semiurban,Approved,Medium,6783,Low Risk
+LP002717,Male,Yes,0,Graduate,No,1025,5500,216,360,1,Rural,Approved,Low,6525,Low Risk
+LP002720,Male,Yes,3,Graduate,No,4281,0,100,360,1,Urban,Approved,Medium,4281,Low Risk
+LP002723,Male,No,2,Graduate,No,3588,0,110,360,0,Rural,Rejected,Medium,3588,High Risk
+LP002729,Male,No,1,Graduate,No,11250,0,196,360,1,Semiurban,Rejected,High,11250,Low Risk
+LP002731,Female,No,0,Not Graduate,Yes,18165,0,125,360,1,Urban,Approved,High,18165,Low Risk
+LP002732,Male,No,0,Not Graduate,No,2550,2042,126,360,1,Rural,Approved,Low,4592,Low Risk
+LP002734,Male,Yes,0,Graduate,No,6133,3906,324,360,1,Urban,Approved,Medium,10039,Low Risk
+LP002738,Male,No,2,Graduate,No,3617,0,107,360,1,Semiurban,Approved,Medium,3617,Low Risk
+LP002739,Male,Yes,0,Not Graduate,No,2917,536,66,360,1,Rural,Rejected,Low,3453,Low Risk
+LP002740,Male,Yes,3,Graduate,No,6417,0,157,180,1,Rural,Approved,Medium,6417,Low Risk
+LP002741,Female,Yes,1,Graduate,No,4608,2845,140,180,1,Semiurban,Approved,Medium,7453,Low Risk
+LP002743,Female,No,0,Graduate,No,2138,0,99,360,0,Semiurban,Rejected,Low,2138,High Risk
+LP002753,Female,No,1,Graduate,No,3652,0,95,360,1,Semiurban,Approved,Medium,3652,Low Risk
+LP002755,Male,Yes,1,Not Graduate,No,2239,2524,128,360,1,Urban,Approved,Low,4763,Low Risk
+LP002757,Female,Yes,0,Not Graduate,No,3017,663,102,360,1,Semiurban,Approved,Medium,3680,Low Risk
+LP002767,Male,Yes,0,Graduate,No,2768,1950,155,360,1,Rural,Approved,Low,4718,Low Risk
+LP002768,Male,No,0,Not Graduate,No,3358,0,80,36,1,Semiurban,Rejected,Medium,3358,Low Risk
+LP002772,Male,No,0,Graduate,No,2526,1783,145,360,1,Rural,Approved,Low,4309,Low Risk
+LP002776,Female,No,0,Graduate,No,5000,0,103,360,0,Semiurban,Rejected,Medium,5000,High Risk
+LP002777,Male,Yes,0,Graduate,No,2785,2016,110,360,1,Rural,Approved,Low,4801,Low Risk
+LP002778,Male,Yes,2,Graduate,Yes,6633,0,146,360,0,Rural,Rejected,Medium,6633,High Risk
+LP002784,Male,Yes,1,Not Graduate,No,2492,2375,146,360,1,Rural,Approved,Low,4867,Low Risk
+LP002785,Male,Yes,1,Graduate,No,3333,3250,158,360,1,Urban,Approved,Medium,6583,Low Risk
+LP002788,Male,Yes,0,Not Graduate,No,2454,2333,181,360,0,Urban,Rejected,Low,4787,High Risk
+LP002789,Male,Yes,0,Graduate,No,3593,4266,132,180,0,Rural,Rejected,Medium,7859,High Risk
+LP002792,Male,Yes,1,Graduate,No,5468,1032,26,360,1,Semiurban,Approved,Medium,6500,Low Risk
+LP002794,Female,No,0,Graduate,No,2667,1625,84,360,1,Urban,Approved,Low,4292,Low Risk
+LP002795,Male,Yes,3,Graduate,Yes,10139,0,260,360,1,Semiurban,Approved,High,10139,Low Risk
+LP002798,Male,Yes,0,Graduate,No,3887,2669,162,360,1,Semiurban,Approved,Medium,6556,Low Risk
+LP002804,Female,Yes,0,Graduate,No,4180,2306,182,360,1,Semiurban,Approved,Medium,6486,Low Risk
+LP002807,Male,Yes,2,Not Graduate,No,3675,242,108,360,1,Semiurban,Approved,Medium,3917,Low Risk
+LP002813,Female,Yes,1,Graduate,Yes,19484,0,600,360,1,Semiurban,Approved,High,19484,Low Risk
+LP002820,Male,Yes,0,Graduate,No,5923,2054,211,360,1,Rural,Approved,Medium,7977,Low Risk
+LP002821,Male,No,0,Not Graduate,Yes,5800,0,132,360,1,Semiurban,Approved,Medium,5800,Low Risk
+LP002832,Male,Yes,2,Graduate,No,8799,0,258,360,0,Urban,Rejected,High,8799,High Risk
+LP002833,Male,Yes,0,Not Graduate,No,4467,0,120,360,1,Rural,Approved,Medium,4467,Low Risk
+LP002836,Male,No,0,Graduate,No,3333,0,70,360,1,Urban,Approved,Medium,3333,Low Risk
+LP002837,Male,Yes,3,Graduate,No,3400,2500,123,360,0,Rural,Rejected,Medium,5900,High Risk
+LP002840,Female,No,0,Graduate,No,2378,0,9,360,1,Urban,Rejected,Low,2378,Low Risk
+LP002841,Male,Yes,0,Graduate,No,3166,2064,104,360,0,Urban,Rejected,Medium,5230,High Risk
+LP002842,Male,Yes,1,Graduate,No,3417,1750,186,360,1,Urban,Approved,Medium,5167,Low Risk
+LP002847,Male,Yes,0,Graduate,No,5116,1451,165,360,0,Urban,Rejected,Medium,6567,High Risk
+LP002855,Male,Yes,2,Graduate,No,16666,0,275,360,1,Urban,Approved,High,16666,Low Risk
+LP002862,Male,Yes,2,Not Graduate,No,6125,1625,187,480,1,Semiurban,Rejected,Medium,7750,Low Risk
+LP002863,Male,Yes,3,Graduate,No,6406,0,150,360,1,Semiurban,Rejected,Medium,6406,Low Risk
+LP002868,Male,Yes,2,Graduate,No,3159,461,108,84,1,Urban,Approved,Medium,3620,Low Risk
+LP002872,Male,Yes,0,Graduate,No,3087,2210,136,360,0,Semiurban,Rejected,Medium,5297,High Risk
+LP002874,Male,No,0,Graduate,No,3229,2739,110,360,1,Urban,Approved,Medium,5968,Low Risk
+LP002877,Male,Yes,1,Graduate,No,1782,2232,107,360,1,Rural,Approved,Low,4014,Low Risk
+LP002888,Male,No,0,Graduate,No,3182,2917,161,360,1,Urban,Approved,Medium,6099,Low Risk
+LP002892,Male,Yes,2,Graduate,No,6540,0,205,360,1,Semiurban,Approved,Medium,6540,Low Risk
+LP002893,Male,No,0,Graduate,No,1836,33837,90,360,1,Urban,Rejected,Low,35673,Low Risk
+LP002894,Female,Yes,0,Graduate,No,3166,0,36,360,1,Semiurban,Approved,Medium,3166,Low Risk
+LP002898,Male,Yes,1,Graduate,No,1880,0,61,360,1,Rural,Rejected,Low,1880,Low Risk
+LP002911,Male,Yes,1,Graduate,No,2787,1917,146,360,0,Rural,Rejected,Low,4704,High Risk
+LP002912,Male,Yes,1,Graduate,No,4283,3000,172,84,1,Rural,Rejected,Medium,7283,Low Risk
+LP002916,Male,Yes,0,Graduate,No,2297,1522,104,360,1,Urban,Approved,Low,3819,Low Risk
+LP002917,Female,No,0,Not Graduate,No,2165,0,70,360,1,Semiurban,Approved,Low,2165,Low Risk
+LP002925,Male,No,0,Graduate,No,4750,0,94,360,1,Semiurban,Approved,Medium,4750,Low Risk
+LP002926,Male,Yes,2,Graduate,Yes,2726,0,106,360,0,Semiurban,Rejected,Low,2726,High Risk
+LP002928,Male,Yes,0,Graduate,No,3000,3416,56,180,1,Semiurban,Approved,Medium,6416,Low Risk
+LP002931,Male,Yes,2,Graduate,Yes,6000,0,205,240,1,Semiurban,Rejected,Medium,6000,Low Risk
+LP002933,Male,No,3,Graduate,Yes,9357,0,292,360,1,Semiurban,Approved,High,9357,Low Risk
+LP002936,Male,Yes,0,Graduate,No,3859,3300,142,180,1,Rural,Approved,Medium,7159,Low Risk
+LP002938,Male,Yes,0,Graduate,Yes,16120,0,260,360,1,Urban,Approved,High,16120,Low Risk
+LP002940,Male,No,0,Not Graduate,No,3833,0,110,360,1,Rural,Approved,Medium,3833,Low Risk
+LP002941,Male,Yes,2,Not Graduate,Yes,6383,1000,187,360,1,Rural,Rejected,Medium,7383,Low Risk
+LP002943,Male,No,0,Graduate,No,2987,0,88,360,0,Semiurban,Rejected,Low,2987,High Risk
+LP002945,Male,Yes,0,Graduate,Yes,9963,0,180,360,1,Rural,Approved,High,9963,Low Risk
+LP002948,Male,Yes,2,Graduate,No,5780,0,192,360,1,Urban,Approved,Medium,5780,Low Risk
+LP002949,Female,No,3,Graduate,No,416,41667,350,180,1,Urban,Rejected,Low,42083,Low Risk
+LP002950,Male,Yes,0,Not Graduate,No,2894,2792,155,360,1,Rural,Approved,Low,5686,Low Risk
+LP002953,Male,Yes,3,Graduate,No,5703,0,128,360,1,Urban,Approved,Medium,5703,Low Risk
+LP002958,Male,No,0,Graduate,No,3676,4301,172,360,1,Rural,Approved,Medium,7977,Low Risk
+LP002959,Female,Yes,1,Graduate,No,12000,0,496,360,1,Semiurban,Approved,High,12000,Low Risk
+LP002960,Male,Yes,0,Not Graduate,No,2400,3800,146,180,1,Urban,Rejected,Low,6200,Low Risk
+LP002961,Male,Yes,1,Graduate,No,3400,2500,173,360,1,Semiurban,Approved,Medium,5900,Low Risk
+LP002964,Male,Yes,2,Not Graduate,No,3987,1411,157,360,1,Rural,Approved,Medium,5398,Low Risk
+LP002974,Male,Yes,0,Graduate,No,3232,1950,108,360,1,Rural,Approved,Medium,5182,Low Risk
+LP002978,Female,No,0,Graduate,No,2900,0,71,360,1,Rural,Approved,Low,2900,Low Risk
+LP002979,Male,Yes,3,Graduate,No,4106,0,40,180,1,Rural,Approved,Medium,4106,Low Risk
+LP002983,Male,Yes,1,Graduate,No,8072,240,253,360,1,Urban,Approved,High,8312,Low Risk
+LP002984,Male,Yes,2,Graduate,No,7583,0,187,360,1,Urban,Approved,High,7583,Low Risk
+LP002990,Female,No,0,Graduate,Yes,4583,0,133,360,0,Semiurban,Rejected,Medium,4583,High Risk
